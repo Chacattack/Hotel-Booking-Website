@@ -1,0 +1,380 @@
+Hotel A 101 1
+Hotel A 102 3
+Hotel A 103 3
+Hotel B 101 1
+Hotel B 102 3
+Hotel B 103 2
+Hotel B 104 3
+Hotel C 101 3
+Hotel C 102 2
+Hotel D 101 1
+Hotel D 102 1
+Hotel D 103 3
+Hotel D 104 1
+Hotel E 101 3
+Hotel F 101 2
+Hotel F 102 2
+Hotel G 101 1
+Hotel G 102 1
+Hotel G 103 2
+Hotel G 104 2
+Hotel G 105 2
+Hotel H 101 2
+Hotel H 102 3
+Hotel H 103 2
+Hotel H 104 2
+Hotel I 101 1
+Hotel I 102 2
+Hotel I 103 2
+Hotel I 104 2
+Hotel J 101 3
+Hotel J 102 1
+Hotel J 103 3
+Hotel J 104 2
+Hotel J 105 1
+Hotel K 101 3
+Hotel K 102 1
+Hotel K 103 1
+Hotel L 101 3
+Hotel L 102 1
+Hotel L 103 1
+Hotel L 104 2
+Hotel L 105 1
+Hotel L 106 2
+Hotel M 101 3
+Hotel M 102 2
+Hotel M 103 2
+Hotel M 104 2
+Hotel N 101 1
+Hotel N 102 2
+Hotel N 103 2
+Hotel N 104 1
+Hotel O 101 3
+Hotel O 102 1
+Hotel O 103 1
+Hotel P 101 2
+Hotel P 102 1
+Hotel Q 101 2
+Hotel Q 102 3
+Hotel R 101 1
+Hotel R 102 2
+Hotel R 103 3
+Hotel R 104 1
+Booking 1 Feb 21 7 triple 2
+Booking 2 Mar 8 6 single 2 double 2
+Booking 3 Mar 7 8 triple 1
+Booking 4 Jan 17 4 single 2 double 1
+Booking 5 Feb 3 5 single 1 double 1 triple 2
+Booking 6 Jan 19 3 single 2 triple 3
+Booking 7 Feb 25 6 single 1 double 1 triple 2
+Booking 8 Feb 1 9 single 2 triple 2
+Booking 9 Jan 15 3 double 1 triple 1
+Booking 10 Mar 15 2 single 1 triple 2
+Booking 11 Feb 25 4 double 4 triple 2
+Booking 12 Mar 7 5 triple 2
+Booking 13 Feb 18 1 single 4 double 1
+Booking 14 Jan 30 6 double 1 triple 1
+Booking 15 Mar 20 3 single 2 double 2 triple 3
+Booking 16 Jan 12 7 single 1 double 3
+Booking 17 Mar 9 6 single 1
+Change 3 Feb 18 8 single 3 double 1
+Booking 18 Jan 7 6 single 1 double 1
+Booking 19 Mar 2 6 triple 2
+Booking 20 Jan 10 5 single 3 double 1
+Booking 21 Feb 20 7 double 2 triple 1
+Booking 22 Jan 3 5 double 1
+Booking 23 Jan 15 7 double 2
+Booking 24 Jan 9 12 triple 1
+Booking 25 Jan 17 7 single 1 triple 2
+Booking 26 Jan 15 7 single 1 double 2
+Booking 27 Feb 14 6 single 1 double 1 triple 1
+Booking 28 Mar 20 9 triple 4
+Booking 29 Mar 22 4 single 1 double 1 triple 1
+Booking 30 Jan 4 10 single 1 double 1
+Booking 31 Mar 17 6 double 3 triple 1
+Booking 32 Feb 1 9 single 1 triple 1
+Booking 33 Jan 7 6 triple 4
+Booking 34 Feb 13 2 single 1 triple 1
+Cancel 19
+Booking 35 Jan 9 3 single 2 double 2 triple 1
+Booking 36 Jan 4 2 double 1
+Booking 37 Feb 12 8 single 1 triple 2
+Booking 38 Mar 21 6 single 1 triple 2
+Cancel 26
+Cancel 11
+Booking 39 Jan 23 6 single 1 double 1 triple 1
+Booking 40 Mar 3 3 single 2 double 1 triple 3
+Booking 41 Jan 21 6 double 2
+Booking 42 Feb 4 3 single 1 triple 2
+Booking 43 Mar 13 4 double 1 triple 1
+Booking 44 Feb 26 7 double 1 triple 1
+Booking 45 Mar 15 5 triple 1
+Booking 46 Mar 30 6 double 4 triple 1
+Booking 47 Feb 23 4 single 1 double 1 triple 1
+Change 22 Mar 22 2 double 1 triple 2
+Booking 48 Jan 8 8 single 1 double 1 triple 1
+Booking 49 Mar 9 9 single 3 double 1
+Booking 50 Mar 29 4 single 2 triple 2
+Booking 51 Feb 23 6 single 1 double 1 triple 1
+Booking 52 Feb 25 3 single 1 double 2 triple 2
+Booking 53 Jan 19 4 double 2 triple 2
+Booking 54 Jan 5 7 single 2 triple 3
+Booking 55 Feb 3 8 triple 5
+Booking 56 Jan 10 4 single 1 double 2 triple 1
+Booking 57 Jan 12 7 single 1 triple 3
+Booking 58 Jan 17 10 single 1 double 1 triple 1
+Booking 59 Jan 30 7 single 1 double 2
+Booking 60 Feb 21 3 single 1 double 1
+Booking 61 Feb 13 3 single 2 triple 3
+Booking 62 Feb 8 6 triple 1
+Booking 63 Mar 27 5 single 1
+Booking 64 Jan 6 3 single 1 double 1 triple 1
+Change 2 Feb 4 8 double 2 triple 1
+Booking 65 Mar 20 5 double 1
+Cancel 43
+Booking 66 Jan 11 8 single 3 double 2 triple 3
+Booking 67 Jan 4 9 triple 2
+Cancel 31
+Booking 68 Jan 1 6 triple 1
+Cancel 42
+Change 12 Mar 15 7 single 1 triple 1
+Booking 69 Mar 30 8 single 2 double 2
+Change 5 Jan 1 6 triple 1
+Booking 70 Jan 11 5 single 1 double 1 triple 1
+Booking 71 Jan 7 5 double 1 triple 2
+Booking 72 Mar 26 4 single 2 double 1
+Booking 73 Mar 14 6 single 3 triple 3
+Cancel 27
+Booking 74 Jan 15 5 double 1 triple 1
+Booking 75 Mar 31 7 single 2 double 1 triple 3
+Booking 76 Mar 13 11 double 1 triple 1
+Booking 77 Jan 26 9 single 2 double 1
+Booking 78 Mar 19 9 double 2
+Cancel 35
+Booking 79 Mar 28 9 double 1 triple 2
+Booking 80 Mar 15 4 single 1
+Booking 81 Feb 13 8 single 1 double 1 triple 1
+Change 71 Feb 25 6 triple 1
+Booking 82 Jan 8 4 double 1 triple 2
+Booking 83 Mar 25 5 double 1
+Booking 84 Feb 3 8 double 1 triple 2
+Booking 85 Feb 12 6 single 2 triple 2
+Change 80 Mar 10 9 single 1 double 2 triple 1
+Booking 86 Feb 2 4 single 2
+Booking 87 Jan 8 2 single 1 double 2
+Booking 88 Mar 15 8 single 3 double 1
+Change 12 Feb 22 7 double 1 triple 1
+Cancel 86
+Booking 89 Feb 3 6 double 1
+Booking 90 Feb 1 4 single 3 double 1 triple 1
+Booking 91 Mar 18 6 single 1 triple 3
+Change 81 Mar 1 4 single 4 double 2 triple 3
+Booking 92 Feb 11 2 single 2 double 2
+Booking 93 Mar 18 8 single 1 double 1
+Change 83 Mar 3 4 double 1
+Booking 94 Feb 8 8 single 3
+Change 71 Feb 26 5 single 1 triple 1
+Cancel 85
+Booking 95 Jan 8 5 single 3 triple 2
+Change 25 Mar 5 6 single 1 double 2 triple 1
+Change 17 Mar 12 6 single 2 triple 2
+Booking 96 Mar 12 6 triple 2
+Booking 97 Mar 13 5 single 3 triple 2
+Booking 98 Mar 22 4 single 1 double 1 triple 4
+Booking 99 Feb 8 4 single 2 double 2
+Change 4 Jan 26 5 single 2 triple 2
+Booking 100 Feb 10 10 single 4 double 1 triple 2
+Change 88 Feb 21 15 triple 1
+Change 52 Jan 29 7 double 2 triple 1
+Booking 101 Jan 6 6 double 1
+Change 16 Mar 29 5 single 2 double 1
+Booking 102 Jan 22 4 single 3 double 1
+Cancel 28
+Booking 103 Feb 20 4 single 1 triple 2
+Booking 104 Jan 26 7 single 1 double 1 triple 1
+Booking 105 Mar 10 9 double 1
+Cancel 57
+Booking 106 Jan 8 5 single 1 triple 4
+Booking 107 Jan 7 10 single 2 triple 2
+Booking 108 Jan 13 6 single 3 double 2 triple 1
+Cancel 80
+Booking 109 Jan 31 5 single 1 double 1
+Booking 110 Jan 30 6 single 3 triple 1
+Booking 111 Feb 18 3 single 1 double 2
+Cancel 83
+Booking 112 Jan 28 4 single 1 double 1 triple 2
+Booking 113 Feb 7 3 double 1 triple 1
+Change 96 Jan 6 7 double 1 triple 1
+Booking 114 Jan 11 8 single 1 triple 2
+Cancel 104
+Booking 115 Mar 23 9 single 3 double 1
+Booking 116 Feb 26 5 double 2 triple 1
+Booking 117 Feb 26 8 single 2
+Change 105 Jan 9 6 double 2
+Cancel 68
+Booking 118 Mar 18 8 single 1 triple 1
+Cancel 60
+Cancel 113
+Booking 119 Feb 7 8 double 2 triple 1
+Change 64 Mar 3 6 double 1
+Booking 120 Jan 12 5 single 1 double 2
+Booking 121 Jan 20 2 single 3 double 2
+Cancel 41
+Booking 122 Feb 26 5 double 2 triple 2
+Cancel 81
+Booking 123 Mar 1 5 single 1 triple 1
+Change 91 Feb 7 6 double 2 triple 2
+Booking 124 Jan 6 7 single 1 triple 1
+Change 4 Mar 10 7 single 1 double 2 triple 1
+Booking 125 Mar 15 3 double 2
+Booking 126 Mar 13 4 single 2 double 1 triple 1
+Booking 127 Feb 23 12 single 1 triple 3
+Cancel 55
+Booking 128 Feb 18 8 single 3 double 2
+Booking 129 Feb 27 7 single 1 triple 1
+Cancel 50
+Booking 130 Jan 13 6 single 1 double 1 triple 1
+Change 53 Mar 23 6 single 1 double 2 triple 1
+Booking 131 Feb 3 5 single 2 double 1 triple 1
+Booking 132 Jan 31 6 single 1 double 4
+Booking 133 Mar 16 4 double 1 triple 1
+Booking 134 Jan 1 5 double 1 triple 2
+Booking 135 Jan 12 5 double 1 triple 1
+Booking 136 Jan 6 9 double 1 triple 1
+Cancel 130
+Change 119 Feb 12 7 single 1 triple 3
+Booking 137 Mar 12 1 double 3 triple 4
+Booking 138 Mar 30 9 single 1 double 1 triple 2
+Booking 139 Mar 17 5 double 2 triple 1
+Change 30 Feb 15 4 triple 3
+Booking 140 Jan 28 8 double 2 triple 2
+Change 51 Feb 18 7 single 1 double 1
+Booking 141 Feb 11 5 single 2 double 1 triple 1
+Booking 142 Feb 14 7 double 1 triple 2
+Booking 143 Feb 9 7 single 1 double 1
+Cancel 69
+Booking 144 Jan 4 10 single 2 double 1 triple 2
+Cancel 36
+Change 53 Feb 1 6 triple 1
+Booking 145 Jan 12 6 single 2 double 2 triple 1
+Booking 146 Mar 16 7 single 1 double 1
+Change 90 Jan 20 7 single 1 double 1
+Cancel 6
+Booking 147 Feb 6 5 single 3 double 1 triple 1
+Cancel 89
+Change 25 Mar 15 7 single 2 triple 1
+Booking 148 Mar 13 5 single 1 double 2 triple 2
+Booking 149 Feb 4 11 single 2 triple 1
+Change 44 Mar 1 4 double 2 triple 2
+Change 91 Jan 20 7 single 1
+Change 87 Mar 8 5 double 1
+Change 63 Jan 28 4 double 2 triple 1
+Cancel 37
+Booking 150 Mar 28 8 double 1 triple 1
+Booking 151 Jan 26 7 double 1
+Cancel 151
+Change 102 Mar 22 10 double 1 triple 2
+Cancel 88
+Booking 152 Jan 28 8 single 1 triple 1
+Change 54 Jan 18 5 double 2 triple 1
+Booking 153 Mar 10 7 single 2 double 2 triple 1
+Cancel 46
+Change 126 Feb 1 2 single 1 triple 2
+Booking 154 Jan 21 4 single 1 double 2
+Change 24 Jan 29 4 double 2
+Change 103 Feb 11 6 double 2 triple 2
+Booking 155 Jan 26 6 single 2
+Booking 156 Mar 18 6 single 1 double 1
+Booking 157 Jan 31 6 single 3
+Cancel 15
+Booking 158 Jan 10 8 single 1 double 1
+Change 32 Jan 20 5 single 2 double 3 triple 1
+Booking 159 Jan 26 6 double 1
+Booking 160 Mar 28 4 single 1 double 2 triple 1
+Booking 161 Jan 14 10 single 2 double 1 triple 1
+Booking 162 Mar 30 4 double 1 triple 1
+Booking 163 Feb 11 8 single 1 double 1 triple 3
+Cancel 94
+Booking 164 Mar 12 5 single 3
+Booking 165 Jan 10 4 triple 1
+Booking 166 Feb 21 4 single 2 triple 1
+Change 155 Jan 16 4 triple 2
+Booking 167 Feb 11 11 single 1
+Cancel 96
+Booking 168 Jan 8 8 double 1
+Booking 169 Jan 13 5 single 2 double 1
+Booking 170 Mar 5 11 double 1
+Booking 171 Feb 7 9 single 1 double 2 triple 3
+Cancel 58
+Change 150 Jan 20 9 single 1 double 2
+Booking 172 Feb 8 7 single 1 double 1 triple 1
+Booking 173 Jan 6 11 single 3 double 2
+Cancel 115
+Cancel 16
+Booking 174 Mar 17 8 triple 3
+Booking 175 Mar 14 6 single 1
+Booking 176 Mar 8 5 single 2
+Change 148 Mar 17 8 single 2 triple 1
+Booking 177 Jan 7 5 single 1 triple 2
+Change 127 Jan 4 3 single 1
+Change 165 Feb 1 7 triple 1
+Booking 178 Jan 23 8 double 1
+Booking 179 Jan 4 5 single 1 double 3 triple 2
+Booking 180 Feb 18 8 single 2 double 2 triple 3
+Change 148 Feb 26 5 single 1 double 1
+Cancel 87
+Booking 181 Mar 19 6 triple 2
+Cancel 24
+Booking 182 Feb 22 7 single 1 triple 1
+Booking 183 Mar 9 3 single 1 double 1 triple 1
+Change 158 Feb 8 5 triple 1
+Booking 184 Feb 8 7 single 2 double 2
+Booking 185 Feb 1 6 single 1
+Booking 186 Mar 12 8 single 2 double 2
+Booking 187 Feb 22 6 single 1 double 3 triple 1
+Cancel 22
+Booking 188 Jan 25 9 single 1 double 3
+Cancel 92
+Booking 189 Mar 19 10 single 1
+Change 56 Mar 18 5 double 1 triple 2
+Cancel 77
+Booking 190 Jan 22 4 triple 2
+Booking 191 Jan 25 10 single 5 triple 3
+Cancel 40
+Booking 192 Mar 31 4 double 2 triple 2
+Booking 193 Mar 16 6 double 1
+Booking 194 Jan 7 2 single 2 double 3 triple 1
+Change 106 Mar 18 8 double 1
+Booking 195 Jan 10 7 single 3 triple 1
+Booking 196 Mar 30 7 double 2
+Cancel 13
+Booking 197 Feb 12 5 single 1 double 2 triple 1
+Booking 198 Jan 8 7 single 1 double 1
+Change 146 Jan 1 4 triple 1
+Booking 199 Feb 24 6 single 2 double 1
+Booking 200 Feb 13 7 single 2 double 1 triple 2
+Booking 201 Jan 11 4 single 2 triple 1
+Change 56 Jan 16 3 double 1 triple 1
+Change 93 Jan 1 3 single 1 double 1
+Cancel 66
+Cancel 4
+Booking 202 Feb 6 4 single 1 triple 1
+Cancel 135
+Print A
+Print B
+Print C
+Print D
+Print E
+Print F
+Print G
+Print H
+Print I
+Print J
+Print K
+Print L
+Print M
+Print N
+Print O
+Print P
+Print Q
+Print R

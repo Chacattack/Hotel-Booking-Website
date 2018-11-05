@@ -1,0 +1,69 @@
+Hotel A 101 3
+Hotel B 101 3
+Hotel C 101 3
+Hotel D 101 1
+Hotel E 101 3
+Hotel F 101 2
+Hotel F 102 2
+Hotel G 101 2
+Hotel H 101 1
+Hotel I 101 1
+Booking 1 Feb 27 5 single 2 double 1 triple 1
+Booking 2 Feb 27 6 double 1 triple 1
+Booking 3 Feb 2 3 single 3 triple 1
+Booking 4 Mar 11 5 single 1 triple 1
+Booking 5 Jan 5 3 single 2
+Booking 6 Mar 11 6 triple 1
+Booking 7 Jan 16 4 single 2 double 1 triple 1
+Booking 8 Feb 8 7 double 1 triple 2
+Booking 9 Mar 31 4 single 2 double 1 triple 1
+Booking 10 Jan 11 7 double 3 triple 1
+Booking 11 Feb 25 7 single 1 double 1 triple 1
+Booking 12 Feb 17 7 single 1 double 1 triple 1
+Booking 13 Jan 25 10 double 2
+Booking 14 Mar 17 4 triple 2
+Booking 15 Feb 4 5 single 1 triple 2
+Booking 16 Feb 11 6 single 1 double 1 triple 3
+Booking 17 Feb 2 6 single 1 double 1
+Cancel 3
+Booking 18 Jan 31 9 single 1
+Cancel 12
+Change 8 Feb 9 5 double 1 triple 1
+Booking 19 Mar 30 6 single 3 triple 1
+Change 13 Mar 4 10 single 1 double 1 triple 2
+Booking 20 Jan 25 10 double 2
+Change 16 Mar 20 6 single 2 triple 1
+Booking 21 Mar 21 5 single 1 double 1 triple 3
+Change 2 Jan 26 8 single 1 double 2 triple 1
+Booking 22 Feb 18 6 double 2
+Change 22 Feb 11 7 triple 1
+Change 13 Jan 14 6 triple 1
+Booking 23 Mar 1 6 single 1 triple 1
+Change 23 Mar 28 8 triple 2
+Booking 24 Feb 11 6 single 2 double 3 triple 1
+Booking 25 Jan 15 7 single 1 double 1
+Change 19 Mar 4 6 single 2 triple 1
+Booking 26 Jan 7 5 single 1 double 2 triple 1
+Change 25 Mar 11 9 single 2 double 1 triple 2
+Booking 27 Jan 15 7 triple 2
+Cancel 27
+Booking 28 Feb 27 3 single 3 double 1 triple 1
+Cancel 11
+Cancel 5
+Cancel 24
+Booking 29 Jan 24 3 single 1 double 1 triple 2
+Change 13 Feb 12 9 single 2 triple 1
+Booking 30 Jan 5 4 single 1
+Booking 31 Jan 29 6 double 1 triple 1
+Booking 32 Jan 16 8 single 2 double 1 triple 1
+Booking 33 Mar 2 1 double 3
+Booking 34 Feb 13 11 double 1 triple 2
+Print A
+Print B
+Print C
+Print D
+Print E
+Print F
+Print G
+Print H
+Print I
